@@ -1,1 +1,1 @@
-This is a new file - file5.txt
+Updated in merge-conflict-branch : This is a new file - file5.txt
